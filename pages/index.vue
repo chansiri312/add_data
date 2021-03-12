@@ -51,6 +51,7 @@
 </template>
 
 <script>
+
 import firebase from "firebase/app";
 import { db } from "~/plugins/firebaseConfig.js";
 import CollectionText from "~/components/collectionText.vue";
